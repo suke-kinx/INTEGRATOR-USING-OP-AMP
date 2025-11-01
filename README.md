@@ -38,13 +38,9 @@ i)	SINE WAVE INPUT
 
 ii)  SQUARE WAVE INPUT
 <img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/ab1e5f5e-e1a5-47bf-affe-cc241b646aa5" />
-
-
 ## TABULATION:
 ![WhatsApp Image 2025-11-01 at 13 45 06_002f7819](https://github.com/user-attachments/assets/a1fc8d82-ebba-48a8-bf5f-a6e55c1ba063)
-
 ## GRAPH:
 ![WhatsApp Image 2025-11-01 at 13 48 19_4393bb73](https://github.com/user-attachments/assets/ea541332-db62-409e-818c-2a93203c1f7d)
-
 ## RESULT:
 Thus an Integrator using op-amp are designed and their performances was successfully tested using of op-amp IC 741.
